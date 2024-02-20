@@ -6,8 +6,8 @@ Well-versed in software tools including HTML, JavaScript, CSS, BOOTSTRAP,JAVA,C#
 
 Skills: HTML / CSS / JS / BOOTSTRAP / JAVA/C#/ASP>NET
 
-- 🔭 I’m currently working on codecare software tream 
-- 🌱 I’m currently learning java 
+- 🔭 I’m currently working on skco software tream 
+- 🌱 I’m currently learning blockchain 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about software engineer 
 - 📫 How to reach me: firoj7github 

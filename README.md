@@ -4,7 +4,7 @@
 
 Well-versed in software tools including HTML, JavaScript, CSS, BOOTSTRAP,JAVA,C#,ASP>NET and JQuery, among others. -Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. 
 
-Skills: HTML / CSS / JS / BOOTSTRAP / JAVA/C#/ASP>NET
+Skills: HTML / CSS / JS / React/ Vue / PHP / Laravel / Flutter
 
 - 🔭 I’m currently working on skco software tream 
 - 🌱 I’m currently learning blockchain 

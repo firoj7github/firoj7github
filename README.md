@@ -2,7 +2,7 @@
 #### I am a Full-Stack + DevOps Engineer
 ![I am a software engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Well-versed in software tools including HTML, JavaScript, CSS, BOOTSTRAP,JAVA,C#,ASP>NET and JQuery, among others. -Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. 
+Well-versed in software tools including HTML, JavaScript and JQuery, CSS, BOOTSTRAP, K8s , Docker , Terraform, CI/CD, Grafana, Prometheus, AWS/AZURE/GCP among others. -Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. 
 
 Skills: HTML / CSS / JS / React / Vue / PHP / Laravel / Docker / K8s / AWS / AZURE / CI/CD / Terraform / Grafana / Ansible / Prometheus / Loki
 

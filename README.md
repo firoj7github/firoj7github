@@ -4,7 +4,7 @@
 
 Well-versed in software tools including HTML, JavaScript and JQuery, CSS, BOOTSTRAP, K8s , Docker , Terraform, CI/CD, Grafana, Prometheus, AWS/AZURE/GCP among others. -Skilled at reading and writing code using viable inputs and outputs after accurate assessment of pre- and post-conditions. 
 
-Skills: HTML / CSS / JS / React / Vue / PHP / Laravel / Docker / K8s / AWS / AZURE / CI/CD / Terraform / Grafana / Ansible / Prometheus / Loki
+Skills: HTML / CSS / JS / Python Django / React / Vue / PHP / Laravel / Docker / K8s / AWS / AZURE / CI/CD / Terraform / Grafana / Ansible / Prometheus / Loki
 
 - 🔭 I’m currently working on best dream car software tream 
 - 🌱 I’m currently learning blockchain 
